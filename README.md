@@ -25,13 +25,13 @@ cd admin_pannel
 **Install Dependencies**: Install the necessary packages using npm for frontend 
 
     npm install
-    cd fornt_end
+    cd front_end
 
 ### Running the Application
 To start the backend  application, use the following command:
 
 npm start
 
-To start the fornt_end  application, use the following command:
+To start the front_end  application, use the following command:
 
 npm run dev
