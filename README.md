@@ -14,15 +14,18 @@ The Admin Pannel project is a tool for managing employee data. It allows for the
 To get started with the project, clone the repository and install the necessary dependencies.
 
 ### Clone the Repository
-```bash
+
 git clone https://github.com/Pabitrarp/admin_pannel.git
 cd admin_pannel
 
-**Install Dependencies**: Install the necessary packages using npm.
+**Install Dependencies**: Install the necessary packages using npm for backend 
     
     npm install
-### cd fornt_end
+
+**Install Dependencies**: Install the necessary packages using npm for frontend 
+
     npm install
+    cd fornt_end
 
 ### Running the Application
 To start the backend  application, use the following command:
